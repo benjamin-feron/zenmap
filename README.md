@@ -10,7 +10,7 @@ A simple docker command to run zenmap.
 ```bash
 $ git clone https://github.com/benjamin-feron/zenmap-docker.git
 $ cd zenmap-docker
-$ ln -s $PWD/zenmap.sh /usr/bin/zenmap
+$ ln -s $PWD/zenmap-docker.sh /usr/bin/zenmap
 ````
 
 ## Usage
