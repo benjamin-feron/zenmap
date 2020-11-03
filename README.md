@@ -1,5 +1,7 @@
 # zenmap
 
+![logo](https://assets.gitlab-static.net/uploads/-/system/project/avatar/12904492/zenmap.png)
+
 A simple docker command to run zenmap.
 
 ## Repository
